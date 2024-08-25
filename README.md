@@ -1,11 +1,7 @@
 
- # Portfolio Version 2
+PORTFOLIO WEBSITE
 
-**Wanna take look at my Portfolio??** 👉🏻👉🏻[ Visit Webiste](https://rehankhan.tech/)
-
-
-Previous iterations: [Version 1](https://rehankhan.netlify.app/)
-
+**Wanna take look at my Portfolio??** 👉🏻👉🏻[ Visit Webiste](https://rehank.com/)
 
 ## 🛠 Installation & Set Up
 
